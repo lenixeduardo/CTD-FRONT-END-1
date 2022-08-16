@@ -1,0 +1,39 @@
+* {
+  margin: 2px;
+  padding: 3px;
+  font-family: 'DynaPuff', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(245, 31, 31);
+  font-weight:  400;
+}
+
+body {
+  background-color: black;
+  background-size: 60%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.imagem{
+    background-image: url('/aula08/images/liga-da-justica.webp');
+    height: 600px;
+    background-size:100%;
+    margin-bottom: 50px;
+}
+.firstItem {
+    font-family: 'DynaPuff', sans-serif;
+  color: rgb(20, 220, 255);
+  background-color: grey;
+  margin-bottom: 30px;
+  /* background-image: url('/aula08/images/caloi.png'); */
+}
+
+
+.secondItem{
+    font-family: 'DynaPuff', sans-serif;
+  color: rgb(20, 220, 255);
+  background-color: grey;
+}
